@@ -3,7 +3,7 @@
 <img width="1080" alt="Captura de ecrã 2022-08-16 150005" src="https://user-images.githubusercontent.com/110233070/184900657-60d4908f-8168-48bb-9253-31f0c1822f0e.png">
 
 # Overview
-Travel Journal developed with React, my first setps with React
+Travel Journal developed with React, my first setps
 
 # How to use
 
